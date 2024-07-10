@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **bekkaoui2001.tarek@gmail.com**
+- 📫 How to reach me **bekkaoui.tarek2001@gmail.com**
 
 - 📄 My CV [https://www.doyoubuzz.com/tarek-bk](https://www.doyoubuzz.com/tarek-bk)
 
