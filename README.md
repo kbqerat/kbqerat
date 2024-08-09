@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm BEKKAOUI Tarek</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 
-<p align="left"> <a href="https://twitter.com/ouecmoi098" target="blank"><img src="https://img.shields.io/twitter/follow/ouecmoi098?logo=twitter&style=for-the-badge" alt="ouecmoi098" /></a> </p>
-
-- 🌱 I’m currently learning **React && Laravel**
+- 🌱 I’m currently learning **ReactJs && Laravel**
 
 - 💬 Ask me about **Web development**
 
