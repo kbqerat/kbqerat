@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BEKKAOUI Tarek</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 
-- 🌱 I’m currently learning **ReactJs && Laravel**
+- 🌱 I’m currently learning **Laravel && MongoDB**
 
 - 💬 Ask me about **Web development**
 
