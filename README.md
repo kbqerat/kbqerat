@@ -107,19 +107,6 @@ I have delivered projects ranging from desktop applications to production web pl
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kbqerat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kbqerat&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kbqerat&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   <i>Always open to discussing backend engineering, DevOps and new opportunities — feel free to reach out.</i>
 </p>
