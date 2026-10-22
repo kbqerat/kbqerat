@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/kbqerat/kbqerat/main/header.png" alt="Tarek Bekkaoui" width="100%" />
-
 <h1 align="center">Tarek Bekkaoui</h1>
 <h3 align="center">Full-Stack Software Engineer · Java / Spring Boot · DevOps</h3>
 
